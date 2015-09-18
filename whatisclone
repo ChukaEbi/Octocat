@@ -1,0 +1,1 @@
+git clone takes an existing repository( existing or remote) and creates a copy on the machine where the command was called.
